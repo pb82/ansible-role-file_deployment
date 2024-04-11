@@ -1,0 +1,4 @@
+---
+schedule:
+  interval: "daily"
+ansible_lint_config_file: ".ansible-lint"
